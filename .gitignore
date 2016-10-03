@@ -43,3 +43,6 @@ nosetests.xml
 
 # Logs
 *.log
+
+# Databases
+*sqlite3

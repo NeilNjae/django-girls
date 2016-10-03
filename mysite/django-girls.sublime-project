@@ -3,6 +3,12 @@
 	[
 		{
 			"path": "."
+		},
+		{
+			"path": "/home/neil/Documents/programming/django-girls/blog"
+		},
+		{
+			"path": "/home/neil/Documents/programming/django-girls"
 		}
 	]
 }
