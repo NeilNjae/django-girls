@@ -49,3 +49,7 @@ nosetests.xml
 
 # Virtual environment
 djangogirls
+
+# Django static files
+/static
+.DS_Store
