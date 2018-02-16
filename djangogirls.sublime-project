@@ -1,0 +1,546 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Prog",
+				"ProgrammedMachine"
+			],
+			[
+				"exec",
+				"executeSteps"
+			],
+			[
+				"Pro",
+				"ProgrammedMachine"
+			],
+			[
+				"init",
+				"initialWorld"
+			],
+			[
+				"showG",
+				"showGrid"
+			],
+			[
+				"Exp",
+				"ExplodedGrid"
+			],
+			[
+				"exp",
+				"explodedRows"
+			],
+			[
+				"app",
+				"apply"
+			],
+			[
+				"cou",
+				"countLit"
+			],
+			[
+				"Ri",
+				"RingBuffer"
+			],
+			[
+				"da",
+				"day15b"
+			],
+			[
+				"filt",
+				"filteredStream"
+			],
+			[
+				"gen",
+				"generatorBStart"
+			],
+			[
+				"generatorA",
+				"generatorAStart"
+			],
+			[
+				"putStr",
+				"putStrLn\t(advent10.hs)"
+			],
+			[
+				"proc",
+				"processInstructionsH"
+			],
+			[
+				"problem",
+				"problemParent"
+			],
+			[
+				"subt",
+				"subtreeRoots"
+			],
+			[
+				"pars",
+				"parseIline"
+			],
+			[
+				"adventofcode1",
+				"adventofcode1701"
+			],
+			[
+				"adventof",
+				"adventofcode17"
+			],
+			[
+				"Hash",
+				"HashMap"
+			],
+			[
+				"Se",
+				"SearchState"
+			],
+			[
+				"exe",
+				"executeInstructionPeep"
+			],
+			[
+				"ad",
+				"adventofcode16\t(adventofcode1601.cabal)"
+			],
+			[
+				"put",
+				"putStrLn"
+			],
+			[
+				"us",
+				"use_pc"
+			],
+			[
+				"Rot",
+				"RotateLetter"
+			],
+			[
+				"str",
+				"stretch_factor"
+			],
+			[
+				"md5se",
+				"md5sequenceS"
+			],
+			[
+				"excludeCand",
+				"excludeCandidates"
+			],
+			[
+				"hasA",
+				"hasABBAv"
+			],
+			[
+				"steps",
+				"steps"
+			],
+			[
+				"rsult",
+				"resultsSoFar"
+			],
+			[
+				"async",
+				"async-waterfall\t(package.json)"
+			],
+			[
+				"star",
+				"startSearchResponse"
+			],
+			[
+				"ev",
+				"event.End"
+			],
+			[
+				"peg",
+				"peg_positions"
+			],
+			[
+				"wheel",
+				"wheel_3"
+			],
+			[
+				"position",
+				"position_l"
+			],
+			[
+				"whee",
+				"wheel_3"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "blog/models.py",
+			"settings":
+			{
+				"buffer_size": 436,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 136.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"pak",
+				"Package Control: List Packages"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"pu",
+				"Git: Push"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"rrem",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 583.0
+	},
+	"console":
+	{
+		"height": 139.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/neil/Documents/programming/django-girls"
+	],
+	"file_history":
+	[
+		"/home/neil/Documents/work/teaching/tm351/vm17j/notebooks/sql_cleanup",
+		"/home/neil/Documents/work/teaching/tm351/vm17j/notebooks/data/movielens-base/movies.dat",
+		"/home/neil/Documents/programming/r-tests/cemheat.csv",
+		"/home/neil/Documents/programming/r-tests/anaerob.csv",
+		"/home/neil/Documents/programming/r-tests/rubber.csv",
+		"/home/neil/Documents/work/teaching/tm351/vm17j/notebooks/data/antique_opticals/disk_order.dat",
+		"/home/neil/Documents/work/teaching/tm351/vm17j/notebooks/data/antique_opticals/order_line.dat",
+		"/home/neil/Documents/work/teaching/tm351/vm17j/notebooks/data/antique_opticals/item.dat",
+		"/home/neil/.XCompose",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent21/advent21.hs",
+		"/home/neil/Downloads/antique-opticals.csv",
+		"/home/neil/Documents/programming/ou-summer-of-code-2017/data-analysis/survey-modified.csv",
+		"/tmp/mozilla_neil0/CipherProg-1.py",
+		"/tmp/mozilla_neil0/CipherProg.py",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent14/advent14.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent22/advent22b.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent22/advent22bh.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/data/advent25.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/src/infi/infi.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent24/advent24.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/data/infi.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/problems/infi-en.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent25/advent25.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent25/advent25sample.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/data/advent24.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/data/advent21.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/data/advent23.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent18/advent18b.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent21/advent21parallel.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/data/advent22.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent19/advent19.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent21/21.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent18/Advent18Parser.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/data/advent20.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/data/advent19.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent09/advent09.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent16/advent16.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/data/advent18.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent17/advent17leaky.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent17/advent17.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/stack.yaml",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent10/advent10.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent13/advent13.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent15/advent15other.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent15/advent15.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent12/advent12.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent11/advent11.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/data/advent12.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/data/advent16.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/data/advent13.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/data/advent11.txt",
+		"/home/neil/Tresors/sync/work/cas-certificate/sanders/part2/201712-version/CipherProgram.py",
+		"/home/neil/Documents/programming/advent-of-code-17/data/advent10.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/.gitignore",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent01/advent01.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent04/advent04.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/data/advent04.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/data/advent09.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/README.md",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent03/advent03.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/data/advent06.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent06/advent06.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent07/advent07.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/data/advent08.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent08/advent08.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/data/advent07.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/data/advent07.dot",
+		"/home/neil/Documents/programming/advent-of-code-17/src/advent05/advent05vector.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/data/advent05.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/adventofcode1701/adventofcode1701.cabal",
+		"/home/neil/Documents/programming/advent-of-code-17/data/advent02.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/adventofcode1702/app/advent02.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/data/advent01.txt",
+		"/home/neil/Documents/programming/advent-of-code-17/adventofcode1702/adventofcode1702.cabal",
+		"/home/neil/Documents/programming/advent-of-code-17/adventofcode1701/app/advent01.hs",
+		"/home/neil/Documents/programming/advent-of-code-17/adventofcode1701/app/advent01verbose.hs",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1611/adventofcode1611.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1611/app/advent11psmh.hs",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1611/app/advent11ps.hs",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1619/app/advent19.hs",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1622/app/advent22psm.hs",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1622/adventofcode1622.cabal",
+		"/home/neil/Documents/programming/eliza/eliza.py",
+		"/home/neil/Documents/internet/njae-files/mediawiki-setup.txt",
+		"/home/neil/Downloads/make_database.py",
+		"/home/neil/.profile",
+		"/home/neil/Documents/programming/advent-of-code-16/advent11psm.trace.txt",
+		"/home/neil/Documents/programming/advent-of-code-16/adven11ps.trace.txt",
+		"/home/neil/Documents/programming/advent-of-code-16/advent11ps.hp",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1625/adventofcode1625.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1624/adventofcode1624.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1623/adventofcode1623.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1621/adventofcode1621.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1620/adventofcode1620.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1619/adventofcode1619.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1618/adventofcode1618.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1617/adventofcode1617.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1616/adventofcode1616.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/stack.yaml",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1615/adventofcode1615.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode16/adventofcode16.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1601/adventofcode1601.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1602/adventofcode1602.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1603/adventofcode1603.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1604/adventofcode1604.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode16/a2.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1605/adventofcode1605.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1606/adventofcode1606.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1607/adventofcode1607.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1608/adventofcode1608.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1609/adventofcode1609.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1610/adventofcode1610.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1612/adventofcode1612.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1613/adventofcode1613.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1614/adventofcode1614.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1613/app/advent01.hs",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode16/app/advent21.hs",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode16/app/advent23.hs",
+		"/home/neil/Documents/programming/advent-of-code-16/data/advent25.txt",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1625/app/advent25.hs",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1624/app/advent24.hs",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1624/app/advent24a.hs",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode16/app/advent22library.hs",
+		"/home/neil/Documents/programming/advent-of-code-16/a24.txt",
+		"/home/neil/Documents/programming/advent-of-code-16/adventofcode1601/app/Main.hs",
+		"/home/neil/Documents/programming/advent-of-code-16/app/advent23.hs",
+		"/home/neil/Documents/programming/advent-of-code-16/advent02/adventofcode16.cabal",
+		"/home/neil/Documents/programming/advent-of-code-16/advent01/adventofcode16.cabal"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"(\\d\\d)/(\\d\\d)/17"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"2017-\\2-\\1"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "blog/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 436,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"git_gutter_is_enabled": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 32.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 104.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 104.0
+	},
+	"pinned_build_system": "",
+	"project": "djangogirls.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
